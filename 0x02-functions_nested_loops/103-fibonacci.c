@@ -9,7 +9,7 @@
 */
 int main(void)
 {
-ong int n, a = 1, b = 2, sums = 0, totsum = 0;
+long int n, a = 1, b = 2, sums = 0, totsum = 0;
 
 for (n = 0; n < 49; n++)
 
