@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
 * main - Entry point
 *
@@ -12,7 +13,7 @@ int main(void)
 long int n, a = 1, b = 2, sums = 0, totsum = 0;
 
 for (n = 0; n < 49; n++)
-
+{
 if ((b % 2 == 0) && (b <= 4000000))
 {
 totsum = totsum + b;
