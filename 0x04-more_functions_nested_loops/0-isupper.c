@@ -3,7 +3,7 @@
 /**
  * _isupper - program that prints uppercase alphabets
  * @c: Variable text
- * Return: Always 0.
+ *
  */
 int _isupper(int c)
 {
@@ -13,7 +13,7 @@ int _isupper(int c)
 	}
 		else
 	{
-	return (0);
+	return (1);
 	}
 }
 
