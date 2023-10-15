@@ -8,7 +8,7 @@
 	 *
 	 * Return: Always 0 (Success)
 	 */
-	int check_num(char *str)
+	int check_num(char *str:)
 
 	{
 		/*Declaring variables*/
@@ -51,8 +51,8 @@
 
 		/*Declaring variables*/
 		int count;
-		int str_to_int;
-int sum = 0;
+	int str_to_int;
+	int sum = 0;
 
 
 		count = 1;
