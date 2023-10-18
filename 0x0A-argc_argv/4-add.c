@@ -8,8 +8,7 @@
 	 *
 	 * Return: Always 0 (Success)
 	 */
-	int check_num(char *str:)
-
+	int check_num(char *str)
 	{
 		/*Declaring variables*/
 		unsigned int count;
@@ -44,15 +43,13 @@
 	int main(int argc, char *argv[])
 
 
-
-
 	{
 
 
 		/*Declaring variables*/
 		int count;
-	int str_to_int;
-	int sum = 0;
+		int str_to_int;
+		int sum = 0;
 
 
 		count = 1;
